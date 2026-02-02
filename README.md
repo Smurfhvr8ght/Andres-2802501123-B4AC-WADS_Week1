@@ -6,4 +6,14 @@
 </ul>
 
 <h1>JavaScript</h1>
-<p>JavaScript (JS) is a programming language and core technology of the Web, alongside HTML and CSS. It was created by Brendan Eich in 1995. As of 2025, the overwhelming majority of websites (98.9%) uses JavaScript for client side webpage behavior.</p>
+<div style="display:flex; width:100%;">
+  <div style="width:50%; padding:10px;">
+    <h2>Left Column</h2>
+    <p>This is the left side content.</p>
+  </div>
+
+  <div style="width:50%; padding:10px;">
+    <h2>Right Column</h2>
+    <p>This is the right side content.</p>
+  </div>
+</div>
