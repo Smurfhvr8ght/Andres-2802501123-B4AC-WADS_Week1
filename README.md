@@ -6,4 +6,4 @@
 </ul>
 
 <h1>JavaScript</h1>
-<img src="[https://via.placeholder.com/200](https://en.wikipedia.org/wiki/File:JavaScript_code.png)" align="right" width="200" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/JavaScript_code.png/500px-JavaScript_code.png" align="right" width="200" />
