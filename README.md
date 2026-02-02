@@ -6,14 +6,21 @@
 </ul>
 
 <h1>JavaScript</h1>
-<div style="display:flex; width:100%;">
-  <div style="width:50%; padding:10px;">
-    <h2>Left Column</h2>
-    <p>This is the left side content.</p>
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
+  <div>
+    <!-- Content for the left column goes here -->
+    ## Left Column Title
+    * Item 1
+    * Item 2
+    <br/> <!-- Use <br/> for line breaks within cells if needed -->
+    More text for the left side.
   </div>
-
-  <div style="width:50%; padding:10px;">
-    <h2>Right Column</h2>
-    <p>This is the right side content.</p>
+  <div>
+    <!-- Content for the right column goes here -->
+    ## Right Column Title
+    * Item A
+    * Item B
+    <br/>
+    More text for the right side.
   </div>
 </div>
