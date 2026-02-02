@@ -19,4 +19,4 @@ Web API security entails authenticating programs or users who are invoking a web
 
 Along with the ease of API integrations come the difficulties of ensuring proper authentication (AuthN) and authorization (AuthZ). In a multitenant environment, security controls based on proper AuthN and AuthZ can help ensure that API access is limited to those who need (and are entitled to) it. Appropriate AuthN schemes enable producers (APIs or services) to properly identify consumers (clients or calling programs), and to evaluate their access level (AuthZ). In other words, may a consumer invoke a particular method (business logic) based on the credentials presented?
 
-"Interface design flaws are widespread, from the world of crypto processors through sundry embedded systems right through to antivirus software and the operating system itself."[1]
+"Interface design flaws are widespread, from the world of crypto processors through sundry embedded systems right through to antivirus software and the operating system itself."
