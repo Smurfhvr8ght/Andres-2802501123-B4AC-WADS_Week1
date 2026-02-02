@@ -6,21 +6,4 @@
 </ul>
 
 <h1>JavaScript</h1>
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;">
-  <div>
-    <!-- Content for the left column goes here -->
-    ## Left Column Title
-    * Item 1
-    * Item 2
-    <br/> <!-- Use <br/> for line breaks within cells if needed -->
-    More text for the left side.
-  </div>
-  <div>
-    <!-- Content for the right column goes here -->
-    ## Right Column Title
-    * Item A
-    * Item B
-    <br/>
-    More text for the right side.
-  </div>
-</div>
+<img src="[https://via.placeholder.com/200](https://en.wikipedia.org/wiki/File:JavaScript_code.png)" align="right" width="200" />
